@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(rgb(128, 128, 233) ,rgb(238, 181, 74),white);
+    min-height: 96.3vh;
+}
+button{
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding:8px;
+    margin-right: 13%;
+    margin-left: 13%;
+    margin-top: 2%;
+    zoom: 120%;
+}
+.func{
+    background-color: aqua;
+    margin: 10% 0% 0% 5%;
+    width: 400px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 12px;
+}
+.class{
+    background-color:rgb(236, 79, 111);
+    width: 400px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 12px;
+    position: absolute;
+    left: 62%;
+    top:47.2%
+}
+.external{
+    color: brown;
+}
